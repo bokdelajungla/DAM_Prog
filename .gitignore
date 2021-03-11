@@ -1,0 +1,4 @@
+#Ignore all bin and .settings directories
+bin/
+.settings/
+.metadata/
